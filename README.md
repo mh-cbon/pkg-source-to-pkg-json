@@ -44,7 +44,7 @@ smthignToPkg(argv._[0], {
 # Examples
 
 ```sh
-$ npm-pkg-pkg-json minimist@">0.0.5" -d some
+$ npm-pkg-json minimist@">0.0.5" -d some
 {
   // content of the package json file
 }
