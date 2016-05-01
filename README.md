@@ -5,7 +5,7 @@ Transforms a downloadable package source string into its package.json equivalent
 # Install
 
 ```sh
-npm i @mh-bon/pkg-source-to-pkg-json -g
+npm i @mh-cbon/pkg-source-to-pkg-json -g
 ```
 
 # Usage

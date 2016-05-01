@@ -1,5 +1,5 @@
 {
-  "name": "@mh-bon/pkg-source-to-pkg-json",
+  "name": "@mh-cbon/pkg-source-to-pkg-json",
   "version": "1.0.1",
   "description": "Transforms a downloadable package source string into its package.json equivalent",
   "main": "index.js",
